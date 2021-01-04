@@ -4,3 +4,5 @@ Training an AI agent to play the arcade game, Pac-Man. This project was part of 
 ## Description
 
 The parts of the code that I contributed can be found in the file `searchAgents.py` in the sections marked `*** YOUR CODE HERE ***`
+
+... More to come ...
